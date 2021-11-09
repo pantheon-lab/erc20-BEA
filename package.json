@@ -1,0 +1,18 @@
+{
+  "name": "BEA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "remixd -s . & open https://remix.ethereum.org/"
+  },
+  "keywords": [],
+  "author": "Jiasheng",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.8"
+  },
+  "devDependencies": {
+    "@remix-project/remixd": "^0.5.2"
+  }
+}
